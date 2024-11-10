@@ -1,0 +1,32 @@
+@import url(./global.css);
+.header {
+    background-image: url(../images/homepage/hero-bg-desktop.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.header__heading {
+    width: 530px;
+    font-size: 80px;
+    line-height: 80px;
+    font-weight: 300;
+}
+
+.header__paragraph {
+    width: 445px;
+    padding-top: 10px;
+    padding-bottom: 40px;
+}
+
+.header__button {
+    padding-bottom: 128px;
+}
+
+.header__logo {
+    margin-bottom: 153px;
+}
+
+.header-container {
+    padding-top: 65px;
+    padding-bottom: 198px;
+}

@@ -1,0 +1,53 @@
+@import url(./global.css);
+.footer {
+    background-color: #111111;
+}
+
+.footer__footer-top {
+    background-image: url(../images/homepage/ready-bg-desktop@2x.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+}
+
+.footer__footer-top__heading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 250px;
+}
+
+.footer__heading-text {
+    padding-top: 99px;
+    padding-bottom: 93px;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 48px;
+    letter-spacing: -0.5px;
+}
+
+.footer-container {
+    padding-top: 78px;
+    padding-bottom: 122px;
+    display: flex;
+}
+
+.footer__time {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer__footer-bottom__info {
+    padding-left: 192px;
+    padding-right: 124px;
+}
+
+.footer__text>p,
+.footer__contact,
+time,
+.time__text {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 2px;
+}
