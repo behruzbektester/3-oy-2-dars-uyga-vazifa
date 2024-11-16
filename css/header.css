@@ -1,32 +1,32 @@
 @import url(./global.css);
 .header {
-    background-image: url(../images/homepage/hero-bg-desktop.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
+  background-image: url(../images/homepage/hero-bg-desktop.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .header__heading {
-    width: 530px;
-    font-size: 80px;
-    line-height: 80px;
-    font-weight: 300;
+  width: 53rem;
+  font-size: 8rem;
+  line-height: 8rem;
+  font-weight: 300;
 }
 
 .header__paragraph {
-    width: 445px;
-    padding-top: 10px;
-    padding-bottom: 40px;
+  width: 44.5rem;
+  padding-top: 1rem;
+  padding-bottom: 4rem;
 }
 
 .header__button {
-    padding-bottom: 128px;
+  padding-bottom: 12.8rem;
 }
 
 .header__logo {
-    margin-bottom: 153px;
+  margin-bottom: 15.3rem;
 }
 
 .header-container {
-    padding-top: 65px;
-    padding-bottom: 198px;
+  padding-top: 6.5rem;
+  padding-bottom: 19.8rem;
 }
