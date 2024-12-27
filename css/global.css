@@ -76,6 +76,10 @@ html {
   font-family: "League Spartan", sans-serif;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   height: 100%;
   display: flex;
